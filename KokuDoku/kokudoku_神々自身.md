@@ -1,7 +1,7 @@
 ---
 title: 神々自身
 author: アイザック・アシモフ
-publisher: 
+publisher: ハヤカワ書房
 published_date: 1986
 isbn: "9784150106652"
 cover: https://www.dropbox.com/scl/fi/9oe7tkpx4kk76va4shjuc/2026-09-28-20-54-37.png?rlkey=sg5pck6715mzcb1hfljqop9sk&st=n5d03gog&dl=0
