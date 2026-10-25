@@ -12,8 +12,8 @@ created_at: 2026-10-04
 
 ## ハイライト
 
-p.29 プロメテウス・コンプレックスとは知生活のエディプス・コンプレックスなのである。
+p.115 時間平均の投資収益率を最大にすることと、利益が致命的なレベルを下回らないようにすることの違いを理解しておくことは重要である。
 
 ---
 
-p.115 時間平均の投資収益率を最大にすることと、利益が致命的なレベルを下回らないようにすることの違いを理解しておくことは重要である。
+p.275 I have nothing to offer but blood、 toil、 tears and sweat。。。。You ask、 what is our policy? I will say。 It is to wage war、 by sea、 land、 and air、 with all our might and with all the strength that God can give us: to wage war against a monstrous tyranny、 never surpassed in the dark、 lamentable catalog of human crime。。。。We shall not flag or fail。 We shall go on to the end、 we shall fight in France、 we shall fight in the seas and ocean、 we shall fight with growing confidence and growing strength in the air、 we shall defend our island、 whatever the cost may be、 we shall fight on the beaches、 we shall fight on the landing-grounds、 we shall fight in the fields and in the streets、 we shall fight in the hills; we shall never surrender
